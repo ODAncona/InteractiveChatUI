@@ -2,14 +2,16 @@
 
 Build Chat UI component for structured Exa search.
 
-The purpose of the prototype is to understand how to insert dynamic component in a Chat UI.
+Let's create a chat interface prototype that handles text-based conversations and incorporates dynamic UI elements based on model responses.
 
-Technologies used in this prototype:
+Technologies available for use in this prototype:
 
 - [Vercel AI SDK Core](https://sdk.vercel.ai/docs/ai-sdk-core/overview)
 - [Vercel AI SDK UI](https://sdk.vercel.ai/docs/ai-sdk-ui/overview)
 - [Exa Search API](https://docs.exa.ai/sdks/python-sdk-specification#getting-started)
-- Exa MCP Server
+- [Exa MCP Server](https://docs.exa.ai/examples/exa-mcp)
+
+inspiration: <https://github.com/JamesSloan/VercelGenUI_MCP>
 
 ## Principle
 
@@ -18,6 +20,10 @@ Let X an agent that takes natural language queries and returns structured search
 - Vercel AI SDK Core => create a chat agent that can process natural language queries and return structured search result schemas.
 - Vercel UI SDK => create a chat UI that allows users to interact with the Exa Search API in a conversational manner.
 - Exa Search API => provide real-time web search capabilities based on the schema defined by the agent.
+
+### Vercel Generative User Interface
+
+Generative user interfaces (generative UI) is the process of allowing a large language model (LLM) to go beyond text and "generate UI". This creates a more engaging and AI-native experience for users.
 
 ### Exa MCP
 
