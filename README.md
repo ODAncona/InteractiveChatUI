@@ -10,8 +10,12 @@ Technologies available for use in this prototype:
 - [Vercel AI SDK UI](https://sdk.vercel.ai/docs/ai-sdk-ui/overview)
 - [Exa Search API](https://docs.exa.ai/sdks/python-sdk-specification#getting-started)
 - [Exa MCP Server](https://docs.exa.ai/examples/exa-mcp)
+- [Zod](https://zod.dev/)
 
-inspiration: <https://github.com/JamesSloan/VercelGenUI_MCP>
+inspiration:
+<https://github.com/JamesSloan/VercelGenUI_MCP>
+<https://vercel.com/blog/ai-sdk-4-2>
+<https://sdk.vercel.ai/docs/getting-started/nextjs-app-router>
 
 ## Principle
 
